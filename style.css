@@ -1,0 +1,22 @@
+body {
+    background-color: var(--c-background-color);
+    color: var(--base-font-color);
+    font-family: 'Open Sans Condensed', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header,
+footer {
+    background-color: var(--c-background-highlights);
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 150%;
+    color: var(--c-yellow);
+}
+
